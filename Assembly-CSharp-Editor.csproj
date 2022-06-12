@@ -952,6 +952,9 @@
     <Reference Include="Unity.Profiling.Core">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.Profiling.Core.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.AdaptivePerformance.Samsung.Android.Editor">
+        <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Samsung.Android.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
@@ -1030,8 +1033,14 @@
     <Reference Include="Unity.AdaptivePerformance.Profiler.Editor">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Profiler.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.AdaptivePerformance.Simulator.VRR.Extension">
+        <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Simulator.VRR.Extension.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.AdaptivePerformance.Samsung.Android">
+        <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Samsung.Android.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

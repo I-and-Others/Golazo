@@ -37,8 +37,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
-     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\DeadZone.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Program Files\Unity Hub\Editor\2021.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -670,6 +670,9 @@
     <Reference Include="Unity.Profiling.Core">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.Profiling.Core.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.AdaptivePerformance.Samsung.Android.Editor">
+        <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Samsung.Android.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
@@ -748,8 +751,14 @@
     <Reference Include="Unity.AdaptivePerformance.Profiler.Editor">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Profiler.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.AdaptivePerformance.Simulator.VRR.Extension">
+        <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Simulator.VRR.Extension.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State">
         <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.AdaptivePerformance.Samsung.Android">
+        <HintPath>C:\Users\PC\Documents\Github\Golazo\Library\ScriptAssemblies\Unity.AdaptivePerformance.Samsung.Android.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
